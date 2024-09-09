@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: page
 title: Music Recommendations
 permalink: '/music-recommendations/'
 ---
