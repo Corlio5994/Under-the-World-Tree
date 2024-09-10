@@ -1,6 +1,6 @@
 ---
 categories: mystery
-permalink: '/midnight-madness/'
+permalink: "/midnight-madness/"
 layout: post
 title: "Midnight Madness"
 author: "unknown"
